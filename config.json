@@ -1,0 +1,7 @@
+{
+    "AZURE_OPENAI_KEY":"7dd04bb3d9b9456da093801bc109d964",
+    "AZURE_OPENAI_ENDPOINT":"https://demo-llm.openai.azure.com/",
+    "AZURE_OPENAI_APIVERSION":"2023-03-15-preview",
+    "CHATGPT_MODE":"llm-demo1"
+
+}
